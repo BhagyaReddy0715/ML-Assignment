@@ -1,10 +1,3 @@
-# Tutorial 02 — Batch Normalisation: Why and How It Works
-
-> **The Trick That Made Deep Networks Trainable — Explained from Scratch**  
-> University of Hertfordshire | MLNN Assignment | 2025
-
----
-
 ## What This Tutorial Covers
 
 This tutorial explains **Batch Normalisation (BN)** — the technique that made training deep neural networks practical. It covers the problem it solves (internal covariate shift), the four-step algorithm derived from scratch, running statistics for inference, and quantitative comparison on CIFAR-10.
@@ -46,7 +39,7 @@ jupyter notebook batch_normalisation_tutorial.ipynb
 ```
 4. Run all cells in order (Cell → Run All)
 
-> **Note:** This notebook uses only NumPy and Matplotlib — no PyTorch or heavy framework required. The BN algorithm is implemented from scratch for maximum clarity.
+> **Note:** This notebook uses only NumPy and Matplotlib no PyTorch or heavy framework required. The BN algorithm is implemented from scratch for maximum clarity.
 
 ---
 
@@ -90,4 +83,4 @@ This project is licensed under the **MIT Licence** — see [LICENSE](LICENSE) fo
 
 ---
 
-**GitHub:** https://github.com/yourusername/ml-tutorials/tree/main/tutorial-02-batch-normalisation
+
